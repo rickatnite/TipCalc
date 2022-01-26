@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="bill_display">$ %1$s</string>
+    <string name="display_15">Tip: $ %1$s, Total Bill: $ %2$s</string>
+    <string name="display_18">Tip: $ %1$s, Total Bill: $ %2$s</string>
+    <string name="display_20">Tip: $ %1$s, Total Bill: $ %2$s</string>
+</resources>
